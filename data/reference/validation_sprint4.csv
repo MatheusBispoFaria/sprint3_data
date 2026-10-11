@@ -1,0 +1,13 @@
+id,cenario,classe_esperada,texto
+V01,Risco de cancelamento e concorrência,1,"[LOCUTOR 1]: A diretoria reclamou de instabilidade e informou que pode cancelar o contrato. Estamos avaliando o SAP como concorrente."
+V02,Indisponibilidade crítica,1,"[LOCUTOR 1]: O sistema ficou fora do ar novamente, tivemos vários bugs e o processo ficou parado. O jurídico pediu um posicionamento urgente."
+V03,Pressão financeira e renegociação,1,"[LOCUTOR 1]: A mensalidade encareceu e o cliente quer renegociar. Se não houver desconto, existe risco de cancelamento."
+V04,Problemas técnicos e Oracle,1,"[LOCUTOR 1]: A operação está travada, com instabilidade e reclamações. A equipe comentou que recebeu proposta da Oracle."
+V05,Stakeholder insatisfeito,1,"[LOCUTOR 1]: O diretor está insatisfeito, reclamou do suporte e disse que o produto está caro. Precisamos resolver antes da renovação."
+V06,Quedas recorrentes,1,"[LOCUTOR 1]: Tivemos quedas, lentidão e o ambiente ficou parado por horas. O cliente falou em multa e cancelamento."
+V07,Expansão Protheus,0,"[LOCUTOR 1]: O Protheus está funcionando bem. O cliente demonstrou interesse em adquirir novas licenças e expandir módulos."
+V08,Integração e treinamento,0,"[LOCUTOR 1]: A reunião foi positiva. A equipe quer treinamento, integração via API e consultoria para a próxima fase."
+V09,Acompanhamento operacional,0,"[LOCUTOR 1]: Fizemos o acompanhamento da implantação. As atividades seguem conforme o planejado e não há pontos críticos no momento."
+V10,Cloud e novos módulos,0,"[LOCUTOR 1]: Apresentamos TOTVS Cloud e o cliente pediu orçamento para um novo módulo. O cenário é de expansão."
+V11,Reunião de rotina,0,"[LOCUTOR 1]: Reunião de rotina para revisar cronograma, responsáveis e próximos passos. O ambiente está estável."
+V12,Renovação satisfeita,0,"[LOCUTOR 1]: O cliente está satisfeito com a solução e sinalizou interesse em renovar e avaliar novas integrações no próximo trimestre."
